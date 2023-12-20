@@ -1,6 +1,7 @@
 import { Title } from "solid-start";
 import Counter from "~/components/Counter";
 import MyImage from '~/assets/test-image.gif';
+import MyImage2 from '~/assets/test-image.png';
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         </a>{" "}
         to learn how to build SolidStart apps.
         <img src={MyImage} alt="Descriptive text" />
+        <img src={MyImage2} alt="Descriptive text" />
 
       </p>
     </main>
