@@ -13,6 +13,7 @@ export default function Home() {
           start.solidjs.com
         </a>{" "}
         to learn how to build SolidStart apps.
+        <img src="/public/test-image.png" />
       </p>
     </main>
   );
