@@ -1,6 +1,6 @@
 import { Title } from "solid-start";
 import Counter from "~/components/Counter";
-import MyImage from './public/test-image.png';
+import MyImage from '~/public/test-image.png';
 
 export default function Home() {
   return (
